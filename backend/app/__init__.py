@@ -1,0 +1,1 @@
+"""AI Canvas application package."""
